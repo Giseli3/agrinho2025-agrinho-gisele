@@ -14,7 +14,7 @@ COMO FUNCIONA:
 ☀️ Painel solar
 🔧 Ferramentas manuais
 
-❌ Itens Ruins (Tiram Pontos ou Vida):
+❌ Itens Ruins (Tiram Pontos):
 🔥 Fogo descontrolado
 🧪 Agrotóxicos
 🛢️ Lixo tóxico
